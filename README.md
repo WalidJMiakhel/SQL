@@ -1,8 +1,12 @@
 **Sports Retail Data Analysis Project**
 
-**Project Overview**
 
+
+
+**Project Overview**
 Sports clothing is a rapidly growing sector, and this project aims to leverage SQL skills to analyze product data for an online sports retail company. The goal is to extract valuable insights from various data points, including pricing, revenue, ratings, reviews, descriptions, and website traffic. By employing SQL techniques such as aggregation, cleaning, labeling, Common Table Expressions (CTEs), and correlation, the objective is to provide recommendations on how the company can maximize its revenue.
+
+
 
 **Project Tasks**
 
@@ -33,8 +37,8 @@ Evaluate the performance of footwear products based on various metrics, includin
 **Clothing Product Performance**
 Analyze the performance of clothing products, similar to footwear, considering revenue, ratings, and reviews.
 
-**Getting Started**
 
+**Getting Started**
 To run the analysis, follow these steps:
 
 Ensure you have a working SQL environment.
